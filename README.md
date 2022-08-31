@@ -1,9 +1,12 @@
 # Monsters Rolodex
-Sample React App putting my learning on React Class Component into Action 
+Sample React App putting my learning on React & Functional Components into Action 
 
 ## Features
-- Displays list of Monsters through an API
-- Search and filter Monsters
+- Displays list of Monsters through an API <br/>  
+  <img src="src/images/monsters-rolodex-index-1.png"  width="700" height="400">
+  
+- Search and filter Monsters <br/>  
+  <img src="src/images/monsters-rolodex-index-2.png"  width="700" height="400">
 
 ## Available Scripts
 
